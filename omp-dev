@@ -1,0 +1,2 @@
+#!/bin/bash
+exec bun /Users/fabiankirchhoff/code/oh-my-pi/packages/coding-agent/src/cli.ts "$@"
